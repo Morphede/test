@@ -10,4 +10,5 @@ int main()
 	int a;
 	cout << a << endl;
 	cout << "i'm Dima" << endl;
+	cout << "i'm 15" << endl;
 }
