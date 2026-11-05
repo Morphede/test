@@ -7,10 +7,12 @@ int main()
 {
 	cout << "hello world!" << endl;
 
-	int a;
+	int a,c;
 	cin >> a;
 	cout << a << endl;
 	cout << "i'm Dima" << endl;
 	cout << "i'm 15" << endl;
+	cin >> c;
+	cout << c << endl;
 
 }
